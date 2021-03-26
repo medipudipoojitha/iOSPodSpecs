@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.name         = "LPMessagingSDK"
   s.version      = "6.3.0.769"
   s.summary      = "LivePerson Mobile library for iOS"
-  s.homepage     = "https://github.com/nvhai142/iOSPodSpecs/raw/master/iOSFrameworks.zip"
+  s.homepage     = "https://github.com/medipudipoojitha/iOSPodSpecs/raw/master/iOSFrameworks.zip"
   s.author       = { "LPMObile" => "mobile@liveperson.com" }
 
 
